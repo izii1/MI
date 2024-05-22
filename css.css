@@ -1,0 +1,54 @@
+.split {
+  height: 100%;
+  width: 50%;
+  z-index: 1;
+  top: 0;
+  overflow-x: hidden;
+  padding-top: 20px;
+}
+
+.left {
+  left: 0;
+}
+
+.right {
+  right: 0;
+}
+
+header {
+  text-align: center;
+  background-color: rgba(33, 37, 41, 140);
+  padding-top: 20px;
+  padding-bottom: 20px;
+  color: white;
+}
+
+h2 {
+  padding-top: 30px;
+  text-align: center;
+}
+
+p {
+  text-align: justify;
+}
+
+.bgc {
+  background-color: #576c7a;
+}
+
+li {
+  text-align: justify;
+}
+
+h3 {
+  text-align: center;
+}
+
+.bgpic{
+  background-image: url(https://img.freepik.com/premium-vector/vector-binary-code-dark-blue-background-big-data-programming-hacking-deep-decryption-encryption-computer-streaming-numbers-1-0-coding-hacker-concept_167184-401.jpg?size=626&ext=jpg)
+}
+footer{
+  text-align: center;
+  background-color: rgba(33, 37, 41, 140);
+  color: white;
+}
